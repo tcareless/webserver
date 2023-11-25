@@ -1,0 +1,8 @@
+C:\Users\tyman\source\repos\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.AssemblyReference.cache
+C:\Users\tyman\source\repos\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyman\source\repos\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.CoreCompileInputs.cache
+C:\Users\tyman\source\repos\myOwnWebServer\bin\Debug\myOwnWebServer.exe.config
+C:\Users\tyman\source\repos\myOwnWebServer\bin\Debug\myOwnWebServer.exe
+C:\Users\tyman\source\repos\myOwnWebServer\bin\Debug\myOwnWebServer.pdb
+C:\Users\tyman\source\repos\myOwnWebServer\obj\Debug\myOwnWebServer.exe
+C:\Users\tyman\source\repos\myOwnWebServer\obj\Debug\myOwnWebServer.pdb
