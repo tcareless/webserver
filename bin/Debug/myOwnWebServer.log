@@ -2,3 +2,38 @@
 2023-11-25 12:40:22 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
 2023-11-25 12:40:22 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
 2023-11-25 12:40:22 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 13:59:36 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 13:59:36 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 13:59:36 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 13:59:36 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 14:00:43 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 14:00:43 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 14:00:43 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 14:00:43 [ERROR] - Missing required arguments (webRoot, webIP, webPort)
+2023-11-25 14:01:31 [SERVER STARTED] - Application started
+2023-11-25 14:01:31 [SERVER STARTED] - Application started
+2023-11-25 14:01:31 [INFO] - Waiting for connection...
+2023-11-25 14:01:48 [INFO] - Client connected.
+2023-11-25 14:01:49 [REQUEST] - 
+2023-11-25 14:01:49 [RESPONSE] - HTTP/1.1 405 Method Not Allowed
+2023-11-25 14:01:49 [RESPONSE] - 405 Method Not Allowed
+2023-11-25 14:01:49 [INFO] - Waiting for connection...
+2023-11-25 14:01:57 [INFO] - Client connected.
+2023-11-25 14:01:58 [REQUEST] - 
+2023-11-25 14:01:58 [RESPONSE] - HTTP/1.1 405 Method Not Allowed
+2023-11-25 14:01:58 [RESPONSE] - 405 Method Not Allowed
+2023-11-25 14:01:58 [INFO] - Waiting for connection...
+2023-11-25 14:02:24 [INFO] - Client connected.
+2023-11-25 14:02:24 [REQUEST] - GET /example.txt HTTP/1.1 HOST: localhost  
+2023-11-25 14:02:24 [RESPONSE] - HTTP/1.1 404 Not Found
+2023-11-25 14:02:24 [RESPONSE] - 404 Not Found
+2023-11-25 14:02:24 [INFO] - Waiting for connection...
+2023-11-25 14:04:41 [INFO] - Client connected.
+2023-11-25 14:04:41 [REQUEST] - GET /example.txt HTTP/1.1 HOST: localhost  GET C:\Users\tyman\source\repos\myOwnWebServer\bin\Debug\example.txt HTTP/1.1 HOST: localhost  
+2023-11-25 14:04:41 [RESPONSE] - HTTP/1.1 404 Not Found
+2023-11-25 14:04:41 [RESPONSE] - 404 Not Found
+2023-11-25 14:04:41 [INFO] - Waiting for connection...
+2023-11-25 14:04:51 [INFO] - Client connected.
+2023-11-25 14:04:51 [REQUEST] - GET C:\Users\tyman\source\repos\myOwnWebServer\bin\Debug\example.txt HTTP/1.1 HOST: localhost  
+2023-11-25 14:04:51 [RESPONSE] - 200 OK Content-Type: text/plain Content-Length: 11
+2023-11-25 14:04:51 [INFO] - Waiting for connection...
